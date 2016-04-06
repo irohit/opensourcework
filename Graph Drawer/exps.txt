@@ -1,0 +1,14 @@
+
+		 *********YOU CAN CHOOSE THE FOLLOWING FUNCTIONS*********
+				 
+  a) x^2#
+  b) x-sinx#
+  c) mod(x-9)#
+  d) mod((x-1)*(x-4)*(x-6))#
+  e) x*sinx/5#
+  f) 34/x+5#
+  g) sinx#
+  h) cosx#
+  i) tanx#
+  j) int(x^2-x-1)#
+  k) int(x*sinx/5)#
